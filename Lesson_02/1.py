@@ -11,5 +11,5 @@ else:
     if d == 0:
         print("x =", (-b / 2 * a))
     else:
-        print("x1 =", ((-b - math.sqrt(d)) / 2 * a))
-        print("x2 =", ((-b + math.sqrt(d)) / 2 * a))
+        print("x1 =", (-b - math.sqrt(d)) / 2 * a)
+        print("x2 =", (-b + math.sqrt(d)) / 2 * a)
