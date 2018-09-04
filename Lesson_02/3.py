@@ -13,4 +13,4 @@ else:
             result += prevResult
             prevResult = tmp
             i += 1
-        print("result =", result)
+        print("Fibonacci series =", result)
