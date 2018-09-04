@@ -7,7 +7,6 @@ else:
     else:
         prevResult = 0
         result = 1
-        tmp = 0
         i = 2
         while i < n:
             tmp = result
