@@ -1,4 +1,3 @@
 from Lesson_04.third.drinks import BEER, POISON
 
-print(BEER)
-print(POISON)
+print(BEER, POISON)
