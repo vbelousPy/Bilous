@@ -12,4 +12,7 @@ def runner(some_func, *args, **kwargs):
     return some_func(*args, **kwargs)
 
 
-print(runner(foo, 1, 2, 3, a=4, b=5))
+try:
+    print(runner(foo, 1, 2, 3, a=4, b=5))
+except:
+    print("error")
