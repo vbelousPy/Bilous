@@ -1,0 +1,4 @@
+Ivan;Ivanov;Lviv;2001-12-12
+Petr;Petrov;Dnepr;1977-10-21
+Sidor;Sidorov;Kiev;1984-01-01
+
