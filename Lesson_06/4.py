@@ -1,8 +1,8 @@
-class Some_Class:
+class SomeClass:
 
     @staticmethod
     def some_method():
         print("It's working")
 
 
-Some_Class.some_method()
+SomeClass.some_method()
