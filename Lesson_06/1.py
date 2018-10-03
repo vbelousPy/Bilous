@@ -5,7 +5,9 @@ class Queue:
 
     def pop(self):
         if len(self.queue_list) > 0:
-            return self.queue_list[0]
+            a = self.queue_list[0]
+            self.queue_list = self.queue_list[1:]
+            return a
         else:
             raise IndexError
 
